@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/exam_1.iml" filepath="$PROJECT_DIR$/.idea/exam_1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/herokutest.iml" filepath="$PROJECT_DIR$/.idea/herokutest.iml" />
+>>>>>>> 90412efca202946dc74c0d025c980aaa146a188f
     </modules>
   </component>
 </project>
